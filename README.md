@@ -10,9 +10,8 @@
 ## Instructions
 
 1. Click the **Open in Colab** badge above
-2. Sign in with your Villanova Google account if prompted
-3. Work through all 15 questions — run cells with **Shift + Enter**
-4. **Save often** with Ctrl+S (Cmd+S on Mac)
+2. Work through all 15 questions — run cells with **Shift + Enter**
+3. **Save often** with Ctrl+S (Cmd+S on Mac)
 
 ## Submitting
 
@@ -21,6 +20,7 @@ When you are finished:
 1. **File → Download → Download .ipynb**
 2. Go to your HW 6 GitHub Classroom repository
 3. Click **Add file → Upload files** and upload the downloaded notebook
+4. Submit a link to this repo on Blackboard.
 
 ---
 
