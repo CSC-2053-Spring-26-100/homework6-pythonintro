@@ -1,4 +1,4 @@
-# Homework 6 — Introduction to Python
+# Homework 6 — Themes of the Semester Through Python
 **CSC 2053 Platform Based Computing  |  Due April 1, 2026 at 11:59 PM**
 
 ---
