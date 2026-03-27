@@ -1,5 +1,5 @@
 # Homework 6 — Introduction to Python
-**CSC 2053 Platform Based Computing  |  Due April 9, 2026 at 11:59 PM**
+**CSC 2053 Platform Based Computing  |  Due April 1, 2026 at 11:59 PM**
 
 ---
 
